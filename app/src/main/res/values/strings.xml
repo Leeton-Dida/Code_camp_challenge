@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Code camp challenge</string>
+    <string-array name="Countries">
+        <item>Zimbabwe</item>
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <item>South Africa</item>
+        <item>Uganda</item>
+        <item>Nigeria</item>
+        <item>Portugal</item>
+    </string-array>
+</resources>
